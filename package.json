@@ -1,6 +1,6 @@
 {
   "name": "changelog_test",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "test for changelog",
   "main": "filetotest.txt",
   "dependencies": {},
@@ -8,7 +8,7 @@
     "standard-version": "^3.0.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -22,8 +22,5 @@
   "bugs": {
     "url": "https://github.com/massan81/changelog_test/issues"
   },
-  "homepage": "https://github.com/massan81/changelog_test#readme",
-  "scripts": {
-    "release": "standard-version"
-  }
+  "homepage": "https://github.com/massan81/changelog_test#readme"
 }
