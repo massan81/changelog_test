@@ -4,7 +4,9 @@
   "description": "test for changelog",
   "main": "filetotest.txt",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "standard-version": "^3.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/massan81/changelog_test/issues"
   },
-  "homepage": "https://github.com/massan81/changelog_test#readme"
+  "homepage": "https://github.com/massan81/changelog_test#readme",
+  "scripts": {
+    "release": "standard-version"
+  }
 }
