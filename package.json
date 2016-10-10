@@ -1,6 +1,6 @@
 {
   "name": "changelog_test",
-  "version": "2.6.1",
+  "version": "2.6.2",
   "description": "test for changelog",
   "main": "filetotest.txt",
   "dependencies": {},
