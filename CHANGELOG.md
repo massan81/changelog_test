@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/massan81/changelog_test/compare/v1.2.0...v1.3.0) (2016-10-10)
+
+
+### Bug Fixes
+
+* **pencil:** test with fix ([f5645cd](https://github.com/massan81/changelog_test/commit/f5645cd))
+
+
+### Features
+
+* **pencil:** feat 2 ([7ed06b0](https://github.com/massan81/changelog_test/commit/7ed06b0))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/massan81/changelog_test/compare/v1.0.3...v1.2.0) (2016-10-10)
 
