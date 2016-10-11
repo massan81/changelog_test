@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="8.0.0"></a>
+# [8.0.0](https://github.com/massan81/changelog_test/compare/v7.0.0...v8.0.0) (2016-10-11)
+
+
+### Features
+
+* **new-parser:** introduces a new parsing library ([6cdf9d8](https://github.com/massan81/changelog_test/commit/6cdf9d8))
+
+
+### BREAKING CHANGES
+
+* new-parser: new library does not support foo-construct
+
+
+
 <a name="7.0.0"></a>
 # [7.0.0](https://github.com/massan81/changelog_test/compare/v6.1.0...v7.0.0) (2016-10-11)
 
