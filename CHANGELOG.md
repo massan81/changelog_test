@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="6.1.0"></a>
+# [6.1.0](https://github.com/massan81/changelog_test/compare/v1.1.0...v6.1.0) (2016-10-11)
+
+
+### Bug Fixes
+
+* **main:** primo test ([519b40e](https://github.com/massan81/changelog_test/commit/519b40e))
+* **pencil:** test with fix ([f5645cd](https://github.com/massan81/changelog_test/commit/f5645cd))
+
+
+### Features
+
+* **pencil:** add 'graphiteWidth' option ([54eaa11](https://github.com/massan81/changelog_test/commit/54eaa11))
+* **pencil:** feat 2 ([7ed06b0](https://github.com/massan81/changelog_test/commit/7ed06b0))
+
+
+### Performance Improvements
+
+* **pencil:** form test ([8068af1](https://github.com/massan81/changelog_test/commit/8068af1))
+* **pencil:** remove file ([33625e7](https://github.com/massan81/changelog_test/commit/33625e7))
+
+
+
 <a name="2.6.2"></a>
 ## [2.6.2](https://github.com/massan81/changelog_test/compare/v2.6.1...v2.6.2) (2016-10-10)
 
